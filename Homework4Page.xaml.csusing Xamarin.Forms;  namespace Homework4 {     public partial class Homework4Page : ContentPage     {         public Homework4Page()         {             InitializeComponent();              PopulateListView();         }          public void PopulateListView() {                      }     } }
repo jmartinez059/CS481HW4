@@ -1,0 +1,19 @@
+using Xamarin.Forms;
+
+namespace Homework4
+{
+    public partial class Homework4Page : ContentPage
+    {
+        public Homework4Page()
+        {
+            InitializeComponent();
+
+            PopulateListView();
+        }
+
+        public void PopulateListView() {
+            
+        }
+    }
+}
+
